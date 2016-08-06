@@ -1,0 +1,29 @@
+_repo: Albert-D-rer_9837
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, T. Sturge (Thomas Sturge)
+    aliases:
+    - Moore, Thomas Sturge
+    - Moore, Sturge
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '3161'
+    url: http://www.gutenberg.org/2009/agents/3161
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Sturge_Moore
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Artists -- Germany -- Biography'
+- !lcsh 'Dürer, Albrecht, 1471-1528'
+- GITenberg
+title: Albert Dürer
+url: http://www.gutenberg.org/ebooks/9837
